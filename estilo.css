@@ -989,6 +989,8 @@ html{
 }
 
 /* SECCION RESPONSIVE */
+
+/* SECCION RESPONSIVE */
 @media screen and (max-width: 1024px) {
     .inicio .contenido-seccion .info h1{
         font-size: 2.5rem;
@@ -1001,6 +1003,10 @@ html{
 }
 
 @media screen and (max-width: 768px) {
+    .inicio .contenido-seccion .info{
+        padding-bottom: 130px;
+        padding-top: 120px;
+    }
     .inicio .contenido-seccion .info h1{
         font-size: 2rem;
         letter-spacing: 1px;
@@ -1020,7 +1026,7 @@ html{
 @media screen and (max-width: 480px) {
     .inicio .contenido-seccion .info{
         padding-bottom: 80px;
-        padding-top: 30px;
+        padding-top: 100px;
     }
     .inicio .contenido-seccion .info h1{
         font-size: 1.6rem;
