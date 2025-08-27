@@ -919,7 +919,8 @@ html{
     color: #6d6b6b;
     text-align: justify;
     font-size: 1.0 rem;
-    padding-left: 0px;
+    padding-left: 10px;
+    padding-bottom: 44px;
 }
 .project-button {
     text-align: center;
